@@ -1,3 +1,4 @@
 Name: Juan Sánchez Mesa
 Age: 32
 Favorite color: Blue
+Alternative color: Red
